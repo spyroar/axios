@@ -1,0 +1,24 @@
+Axios : 
+
+
+
+  npm i axios
+
+first way to write Axios:-
+--------------------------
+
+  config={
+    method:'method',
+    url:'url',
+    data:{ },
+    responseType:'json',
+  }
+
+ axios(config)
+
+
+ second way:
+
+ axios({
+    
+ })
